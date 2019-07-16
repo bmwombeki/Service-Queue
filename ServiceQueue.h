@@ -9,8 +9,8 @@
 
 
 /**
-* Implementation of the ServiceQueue ADT meeting
-*  behavioral requirements*/
+* Implementation of the ServiceQueue ADT 
+*/
 
 
 class ServiceQueue {
